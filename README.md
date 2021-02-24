@@ -1,5 +1,5 @@
 # MemoryOperator
-While waiting for full C++ module Support, I've decided to already create a Tool for Memory editing to make my life easier with future Projects
+While waiting for full C++ module Support, I've decided to already create a Tool for memory-editing to make my life easier with future Projects
 
 # How to use
   Simply copy the .ixx file/s into your project-director
